@@ -1,5 +1,4 @@
 # Books_to_scrape
-# Books_to_scrape
 
 This project is a web scraper for the website **Books to Scrape**.
 It extracts book information such as title, price, stock availability, and rating.
