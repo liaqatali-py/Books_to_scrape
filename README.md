@@ -13,7 +13,6 @@ It extracts book information such as title, price, stock availability, and ratin
 ## Requirements
 - Python 3.x
 - Requests
-- BeautifulSoup4
 
 ## How to Run
 1. Clone this repository:
